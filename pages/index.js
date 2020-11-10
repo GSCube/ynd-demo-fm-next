@@ -1,13 +1,83 @@
 import Head from 'next/head'
+import Image from "next/image";
 
 export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title></title>
       </Head>
 
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore earum nesciunt perspiciatis quis saepe sequi.
+        At consectetur, earum esse excepturi iste labore nobis omnis provident sint voluptates? Esse est in laboriosam
+        obcaecati placeat quaerat sequi temporibus! Accusantium aliquam consectetur consequatur delectus, itaque
+        obcaecati placeat quibusdam repellat? Accusantium aliquam aperiam consequatur culpa cumque dicta ea eos illo
+        iusto labore minima modi molestiae optio placeat quam quas quia quisquam quo ratione repellendus rerum sed sit
+        soluta temporibus unde ut, veritatis voluptatum? Mollitia nesciunt nulla tempore? Accusamus accusantium alias
+        aliquid aut dolor dolorum ducimus earum error eum expedita ipsa iste minima necessitatibus quia, quidem repellat
+        repellendus soluta suscipit, voluptate voluptatum. Aliquam aspernatur beatae eaque earum enim eum ipsum nostrum.
+        Illo in modi non nostrum, quas repellendus voluptatum? Amet deserunt doloremque, harum illum impedit labore
+        magnam neque non, nulla porro quaerat quis sapiente sit tempore totam! Accusantium atque, deleniti dicta eaque
+        enim esse inventore itaque labore omnis quaerat sequi vitae. A accusantium ad aliquam architecto autem cum
+        ducimus enim eum eveniet exercitationem facere ipsa iste iure molestias nesciunt nihil odio optio provident
+        repellendus, reprehenderit sed suscipit tempora unde voluptas voluptates! Amet cupiditate distinctio eaque
+        laboriosam magnam modi numquam repellendus rerum similique vel. Amet culpa dolor ducimus eius eligendi et
+        exercitationem facilis ipsa itaque iusto maiores neque nesciunt officia optio pariatur placeat possimus
+        reiciendis rerum, sapiente totam unde vero voluptatibus. A consequatur deleniti dolore error nulla, odit quaerat
+        quasi qui quia quis ratione saepe, vel voluptates? Aperiam asperiores aut consectetur distinctio dolore eius
+        error eum eveniet fuga impedit iste iusto labore nam nobis praesentium, quae quas quia quisquam recusandae
+        repudiandae totam velit veritatis? Consequatur corporis doloribus eligendi facilis harum id incidunt libero
+        magni minima molestias nesciunt nihil, nostrum numquam possimus quas, ratione repudiandae, sequi tempora
+        voluptatem voluptatibus? Ab accusamus aspernatur assumenda blanditiis consequatur cupiditate enim excepturi
+        expedita illo, impedit iure maxime nesciunt non quaerat repellat saepe sit suscipit tempora veritatis vitae?
+        Architecto autem ducimus eveniet quasi. Amet exercitationem magni nisi officia officiis quod sit, voluptate.
+        Accusamus asperiores atque beatae delectus dignissimos ea eos esse est excepturi facilis hic nesciunt nihil
+        numquam optio porro provident, quaerat qui quo quos recusandae repellat sapiente vitae voluptates! Accusamus
+        amet, animi dolore doloribus error est hic modi necessitatibus non obcaecati, odio omnis quas rerum vero
+        voluptate! Asperiores ea eum hic odio perferendis! Accusamus accusantium, aliquam aspernatur aut commodi culpa
+        delectus dicta ducimus eius eum expedita fuga fugit in, iure natus nemo nisi non nulla optio pariatur placeat
+        possimus provident quam quasi quidem quisquam quos rem repellat sapiente sequi sunt tempora ullam unde veniam
+        vero voluptas voluptatibus. Consectetur consequatur culpa deleniti earum enim expedita libero quibusdam sequi?
+        Ab accusantium aspernatur aut autem commodi consectetur delectus dignissimos distinctio dolores, eligendi id in
+        incidunt ipsum iste magnam magni minus necessitatibus, neque nihil numquam omnis perferendis quasi ratione
+        repudiandae rerum similique sunt tempore voluptas voluptatem voluptatibus! Ab accusantium amet animi, aperiam
+        consequatur deserunt eius eos et expedita id ipsa ipsum laborum libero, minus necessitatibus nisi officia optio
+        placeat quaerat quos repudiandae soluta tempora tenetur unde, veniam veritatis voluptatibus voluptatum. A
+        adipisci amet animi architecto aut blanditiis delectus deserunt dolor dolorem ducimus earum, eos excepturi
+        exercitationem expedita fugiat ipsam iusto magnam maxime minus nihil officiis, pariatur perferendis porro
+        praesentium quibusdam quod reprehenderit voluptate! A, aliquid amet animi cum dolorem est inventore ipsam ipsum
+        molestiae officia ratione reprehenderit sed vero. Adipisci alias, ex inventore ipsa, iure modi odio praesentium
+        quas quod reiciendis repudiandae sit totam unde ut velit? Cumque exercitationem expedita fuga iusto modi
+        praesentium quae. Cupiditate deserunt eveniet non possimus quas. Aspernatur delectus deleniti minus obcaecati
+        placeat quas sequi. Ab adipisci asperiores, corporis debitis eos et excepturi facere harum in labore libero
+        natus quibusdam sequi tenetur voluptatum. Animi aut culpa cupiditate dolor doloribus esse eum facere, impedit in
+        iste maxime natus nemo quam quos, repudiandae suscipit voluptatum? Amet eaque, minus modi nam neque pariatur
+        quas qui quibusdam repellat similique ullam voluptas. Beatae corporis dolores eius est facilis, fuga iste labore
+        laborum quasi quidem unde, voluptate voluptatibus? Delectus dolor earum eum eveniet impedit nesciunt quaerat
+        quisquam sint totam veritatis! Amet consectetur delectus ducimus maxime possimus praesentium quod veniam vero
+        vitae! Consectetur cum fugiat molestias porro saepe? Aliquam amet animi assumenda, autem cupiditate ipsam itaque
+        molestias, nihil provident qui, quis ratione repellat tempora tempore vel vero voluptatum? Accusantium aliquid
+        assumenda autem commodi cumque dolorem esse fuga fugiat impedit minima odio, omnis optio repudiandae sunt
+        tempora tenetur ullam unde veritatis! Magni natus nemo omnis quaerat sequi sit temporibus ut! Accusantium
+        commodi consequuntur deserunt dolorem doloremque excepturi fugit, harum illo in, ipsa laudantium modi
+        praesentium qui quibusdam ratione sunt tempora! Asperiores, eos et illo minima non perferendis quae repellendus
+        suscipit voluptates voluptatibus? Animi asperiores cupiditate fugit harum id in incidunt iste molestias
+        perspiciatis placeat quisquam, sapiente veritatis. Accusamus, ad architecto assumenda at aut blanditiis, ducimus
+        eveniet exercitationem expedita id inventore ipsa mollitia, neque obcaecati saepe voluptate voluptatem!
+        Assumenda aut consequuntur cupiditate dicta dignissimos, dolores eius enim eveniet expedita fugit illum incidunt
+        itaque minus, nam neque nulla porro possimus provident quibusdam quis repellat tempora ullam ut. Ad animi at
+        minus sapiente tempore! Ab architecto aspernatur atque blanditiis consectetur cum dolor doloribus expedita fuga,
+        inventore ipsam magnam obcaecati, officia provident similique sunt veritatis voluptas! A ab adipisci amet atque
+        aut commodi consequuntur delectus dicta enim facere fuga iure mollitia nemo nesciunt nisi non nostrum nulla odio
+        omnis porro quos recusandae rem saepe, veniam, vitae voluptate voluptatem. A accusamus architecto assumenda
+        autem commodi consectetur dolorum ea esse excepturi facilis, harum illum itaque nesciunt nobis non odio officiis
+        optio, possimus quo quos ratione rem reprehenderit rerum sed sequi tempora tempore temporibus totam vero
+        voluptatem. Aliquam aperiam atque commodi, cupiditate ducimus enim expedita illum libero numquam odit omnis
+        porro quaerat quas ratione reprehenderit tempore temporibus vel voluptates! Fugiat fugit pariatur perspiciatis
+        quisquam sunt? Alias eligendi inventore libero placeat quis! Ad at consectetur, deserunt, dolores doloribus
+        eligendi esse itaque magni possimus quisquam, ratione rerum temporibus veniam! Adipisci consectetur delectus
+        deserunt distinctio, doloremque doloribus dolorum error in magnam maxime minima obcaecati, perferendis
+        perspiciatis quaerat rerum voluptatum!</p>
       <main>
         <h1 className="title">
           Welcome to <a href="https://nextjs.org">Next.js!</a>
@@ -46,6 +116,7 @@ export default function Home() {
             </p>
           </a>
         </div>
+
       </main>
 
       <footer>
